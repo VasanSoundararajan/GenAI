@@ -1,0 +1,49 @@
+# Python version: 3.11.8
+# Core Data Science and ML
+# pip install -r requirements_genai.txt in command prompt after activating virtual environment
+pandas==2.2.3
+numpy==1.26.4
+scipy==1.15.2
+scikit-learn==1.6.1
+matplotlib==3.10.1
+
+# Deep Learning and AI
+tensorflow-macos==2.15.0  # For MacOS
+tensorflow-metal==1.1.0   # For MacOS Metal acceleration
+tf-keras==2.15.0
+torch==2.6.0
+torchaudio==2.6.0
+torchvision==0.21.0
+
+# NLP and Transformers
+transformers==4.35.2
+sentence-transformers==3.4.1
+nltk==3.9.1
+langchain==0.3.20
+langchain-community==0.3.19
+langchain-core==0.3.41
+
+# AI Services and Tools
+openai==1.65.4
+google-cloud-aiplatform==1.83.0
+google-generativeai==0.8.4
+huggingface-hub==0.29.2
+
+# Document Processing
+pypdf==5.3.1
+unstructured==0.16.23
+chromadb==0.6.3
+
+# Web and API
+streamlit==1.43.0
+gradio==5.20.1
+fastapi==0.115.11
+
+# Jupyter Environment
+ipykernel==6.29.5
+jupyter==1.1.1
+jupyterlab==4.3.5
+
+# Development Tools
+python-dotenv==1.0.1
+ruff==0.9.9
