@@ -1,7 +1,7 @@
 import requests  # Added missing import
 
 def get_completion(prompt):
-    endpoint = "https://generativelanguage.googleapis.com/v1/models/gemini-pro:generateContent?key=AIzaSyCO_ylx7jpwqMJg_C5Roqx36zxzP2JupSg"
+    endpoint = "https://generativelanguage.googleapis.com/v1/models/gemini-pro:generateContent?key=API_KEY"
     
     headers = {
         "Content-Type": "application/json"
